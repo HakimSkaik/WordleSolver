@@ -139,7 +139,9 @@ More information is present in the code as comments
 
 ## Disclaimer
 * This is a starter algorithm which can be improved to enhance either performance or success rate.
-* This README.md was done with [Ghaith Chrit](https://github.com/Ghaith-Chrit)'s help
 
 ## License
 * Check the LICENSE file
+
+##Credits
+* This README.md was done with [Ghaith Chrit](https://github.com/Ghaith-Chrit)'s help
