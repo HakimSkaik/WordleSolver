@@ -143,5 +143,5 @@ More information is present in the code as comments
 ## License
 * Check the LICENSE file
 
-##Credits
+## Credits
 * This README.md was done with [Ghaith Chrit](https://github.com/Ghaith-Chrit)'s help
