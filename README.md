@@ -139,7 +139,7 @@ More information is present in the code as comments
 
 ## Disclaimer
 * This is a starter algorithm which can be improved to enhance either performance or success rate.
-* This project was done with the help of [Ghaith Chrit](https://github.com/Ghaith-Chrit)'s supervision
+* This project was done with [Ghaith Chrit](https://github.com/Ghaith-Chrit)'s supervision
 
 ## License
 * Check the LICENSE file
